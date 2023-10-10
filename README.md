@@ -2,8 +2,7 @@
 
 <span style="font-family: 'Comic Sans MS', 'Comic Sans', Arial">
 
-<p style="text-align:center;margin-top:-10px;">Heya! I'm Metty and this is my silly little github page.</p>
-<p style="text-align:center;margin-top:-10px;">Feel free to send me a message request on Discord if you need anything!</p>
+<p style="text-align:center;margin-top:-10px;">Heya! I'm Metty and this is my silly little github page. Feel free to send me a message request on Discord if you need anything!</p>
 
 ____
 
@@ -18,8 +17,6 @@ ____
 </small>
 </p>
 </p>
-
-___
 
 ## About Me
 <p style="margin-top:-16px;">I'm not a very interesting person but I'll try!
