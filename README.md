@@ -14,6 +14,7 @@ ____
 
 * ⭐ [Neopets Userscripts](https://github.com/Mettymagic/np-userscripts)
 * ⭐ [Neopets Daily Simulations](https://github.com/Mettymagic/np-daily-sim)
+* ⭐ [Neopets Mystery Pic Solver](https://github.com/Mettymagic/np-mystery-pic)
 </small>
 </p>
 </p>
